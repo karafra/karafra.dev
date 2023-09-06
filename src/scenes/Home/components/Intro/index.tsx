@@ -32,7 +32,7 @@ export default function Intro(props: SectionProps) {
             <Divider />
 
             <h2 className={classes.subTitle}>
-              backend developer /
+              Backend developer /
             </h2>
 
             <h2 className={classes.subTitleSecond}>

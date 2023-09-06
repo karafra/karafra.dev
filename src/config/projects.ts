@@ -13,15 +13,14 @@ export interface IProject {
 
 const projects: IProject[] = [
     {
-        title: 'Video downtloader',
+        title: 'Video downloader',
         url: 'https://github.com/karafra/video-downloader',
         github: 'https://github.com/karafra/video-downloader',
         description: [
-            'Spotify Cartography groups simular songs together based on their happiness, energy, danceability and six other variables using an algorithm called t-distributed stochastic neighbor embedding (t-SNE).',
-            'The songs are then displayed in a 3D space using Three.js, allowing you to fly around and explore.',
-            '1st place winner for Oregon State Beaverhacks Winter 2022!',
+            'Simple spring boot application built with thymeleaf as static website engine used for downloading videos from Bitchute',
+            'Application streams downloaded files directly to clients machine so no server storage is required'
         ],
-        image: 'spotify_cartography',
+        image: 'video-downloader',
         topics: [
             'Video',
             'Download',
