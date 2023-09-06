@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://andyruwruw.com">
+  <a href="https://karafra.dev">
     <img
       width="400px"
       src="https://raw.githubusercontent.com/andyruwruw/andyruwruw.com/master/src/assets/logo.svg">
   </a>
 </p>
 
-<a href="https://andyruwruw.com">
+<a href="https://karafra.dev">
   <h1 align="center">
-    andyruwruw.com
+    karafra.dev
   </h1>
 </a>
 
